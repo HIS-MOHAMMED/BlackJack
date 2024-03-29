@@ -1,4 +1,6 @@
 ### Overview of Blackjack Game Console in Java
+![image](https://github.com/HIS-MOHAMMED/BlackJack/assets/138883671/0fcf0910-5cee-4697-bf10-21186d4e23af)
+
 
 This Java project implements a console-based version of the popular card game Blackjack. The game adheres to standard Blackjack rules and utilizes object-oriented design principles, ArrayLists, Collections, Algorithms, and ENUMs.
 
@@ -29,3 +31,5 @@ This Java project implements a console-based version of the popular card game Bl
 3. Compile and run the Main class to start the game.
 
 Enjoy playing Blackjack in your console! Feel free to explore and modify the code as needed.
+
+Special Thanks for Guideness:https://kevinsguides.com/guides/code/java/javaprojs/consoleblackjack
